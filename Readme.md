@@ -1,4 +1,4 @@
-📌 RESUMO DO PROJETO — PAP
+RESUMO DO PROJETO — PAP
 Nome
 
     PAP — Plataforma de Acompanhamento e Psicoeducação
@@ -15,9 +15,10 @@ Propósito central
 
     se preparar melhor para acompanhamento profissional
 
-❗ O PAP não diagnostica, não trata e não substitui psicólogos ou psiquiatras.
+O PAP não diagnostica, não trata e não substitui psicólogos ou psiquiatras.
 
-🎯 Objetivos do projeto
+Objetivos do projeto
+
 Para o usuário
 
     Autoconhecimento baseado em registro, não em achismo
@@ -28,18 +29,9 @@ Para o usuário
 
     Orientação clara sobre quando buscar ajuda profissional
 
-Para você (ADS)
+Estrutura do PAP (por camadas)
 
-    Aplicar lógica de sistemas reais
-
-    Trabalhar com dados, histórico e regras
-
-    Criar arquitetura modular e ética
-
-    Construir um projeto forte de portfólio
-
-🧱 Estrutura do PAP (por camadas)
-🔹 Camada 1 — Núcleo (MVP)
+Camada 1 — Núcleo (MVP)
 
 Funções essenciais:
 
@@ -51,9 +43,9 @@ Funções essenciais:
 
     Histórico e visualização simples
 
-👉 O PAP já funciona só com isso.
+O PAP já funciona só com isso.
 
-🔹 Camada 2 — Psicoeducação
+Camada 2 — Psicoeducação
 
 Funções:
 
@@ -63,9 +55,9 @@ Funções:
 
     Linguagem acessível e avisos de responsabilidade
 
-👉 Informação confiável ≠ conselho clínico.
+Informação confiável ≠ conselho clínico.
 
-🔹 Camada 3 — Insights simples
+Camada 3 — Insights simples
 
 Funções:
 
@@ -75,9 +67,9 @@ Funções:
 
     Mensagens do tipo “foi observado que…”
 
-❌ Nada de rótulos ou diagnósticos.
+Nada de rótulos ou diagnósticos.
 
-🔹 Camada 4 — Preparação para terapia
+Camada 4 — Preparação para terapia
 
 Funções:
 
@@ -87,7 +79,7 @@ Funções:
 
     Exportação de dados (PDF ou texto)
 
-🔹 Camada 5 — Encaminhamento e apoio
+Camada 5 — Encaminhamento e apoio
 
 Funções:
 
@@ -97,7 +89,7 @@ Funções:
 
     Instruções claras em situações de crise
 
-⚖️ Limites éticos (definidos desde o início)
+Limites éticos (definidos desde o início)
 
 O PAP NUNCA:
 
@@ -119,9 +111,9 @@ Esses limites:
 
     aparecem na documentação
 
-🤝 Colaboração com psicologia
+Colaboração com psicologia
 
-Seus amigos:
+consultar profissionais:
 
     revisam conteúdos
 
@@ -133,7 +125,7 @@ Seus amigos:
 
     Você é o responsável técnico.
 
-🛠️ Direção técnica (inicial)
+Direção técnica (inicial)
 
     Aplicação Web com foco em uso mobile, arquitetura modular
     preparada para crescimento por camadas, backend web em Python,
@@ -141,7 +133,7 @@ Seus amigos:
     em clareza, acessibilidade e baixo atrito. Possível evolução
     futura para PWA e aplicação mobile.
 
-🧠 Verdade final do resumo
+Verdade final do resumo
 
 O PAP:
 
@@ -159,7 +151,7 @@ Próximo passo lógico (planejamento real)
 
 Agora que temos o mapa, o próximo passo não é código.
 
-👉 Definir o MVP do PAP em detalhes
+Definir o MVP do PAP em detalhes
 Ou seja:
 
 o que entra na versão 1.0
