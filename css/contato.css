@@ -1,0 +1,20 @@
+.contato h2 {
+    color: white;
+    text-align: center;
+}
+.contato h3 {
+    color: white;
+}
+.contato li {
+    color: rgb(255, 157, 0);
+}
+.contato p {
+    color: rgb(255, 157, 0);
+    text-align: center;
+}
+.contato .objetivo-p {
+    text-align: left;
+}
+strong {
+    color: white;
+}
