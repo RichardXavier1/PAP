@@ -1,33 +1,57 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>PAP - Início</title>
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="icon" href="/img/favicon.ico">
+    <title>PAP - Plataforma de Acompanhamento</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <h1 class="logo">PAP</h1>
-        <nav>
-            <ul class="menu">
-                <li><a class="atual" href="index.html">Início</a></li>
-                <li><a href="sobre.html">Sobre</a></li>
-                <li><a href="projetos.html">Projetos</a></li>
-                <li><a href="contato.html">Contato</a></li>
-            </ul>
-        </nav>
-    </header>
-    <section class="sobre">
-        <img src="img/perfil.png" class="sobre-img">
-        <div class="sobre-text">
-            <h2>Portfólio Acadêmico</h2>
-            <p>Desenvolvido para a disciplina de Programação Web, como avaliação P2, este portfólio reúne projetos, minha trajetória na área de tecnologia e minha evolução como estudante de Análise e Desenvolvimento de Sistemas.</p>
-            <a href="projetos.html" class="botao">Ver Projetos</a>
-            <a href="sobre.html" class="botao">Mais sobre</a>
+
+    <div class="layout">
+
+        <aside class="sidebar">
+            <div class="logo">PAP</div>
+
+            <nav>
+                <ul>
+                    <li class="active">Início</li>
+                    <li>Registro emocional</li>
+                    <li>Histórico</li>
+                    <li>Psicoeducação</li>
+                    <li>Preparação para terapia</li>
+                </ul>
+            </nav>
+        </aside>
+
+        <div class="main-area">
+
+            <header class="topbar">
+                <h2>Início</h2>
+                <div class="user">Richard</div>
+            </header>
+
+            <main class="content">
+                <section class="card">
+                    <h3>Como você se sente hoje?</h3>
+                    <div class="mood-container">
+                        <button>1</button>
+                        <button>2</button>
+                        <button>3</button>
+                        <button>4</button>
+                        <button>5</button>
+                    </div>
+                </section>
+
+                <section class="card">
+                    <h3>Eventos importantes</h3>
+                    <p>Nenhum evento registrado.</p>
+                </section>
+            </main>
+
         </div>
-    </section>
+
+    </div>
+
+<script src="js/main.js"></script>
 </body>
 </html>
